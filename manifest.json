@@ -1,0 +1,27 @@
+{
+  "short_name": "KickUp-Football",
+  "name": "KickUp-Football Academy",
+  "description": "ფეხბურთის აკადემიის მართვისა და ბავშვის პროგრესის აპლიკაცია",
+  "icons": [
+    {
+      "src": "./kickup-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./kickup-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#08182C",
+  "background_color": "#F5F7FB",
+  "lang": "ka-GE",
+  "categories": ["sports", "education"]
+}
