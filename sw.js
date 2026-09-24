@@ -1,4 +1,4 @@
-const CACHE_NAME = "kickup-football-v1";
+const CACHE_NAME = "kickup-football-v2";
 const APP_SHELL = ["./", "./manifest.json", "./kickup-icon-192.png", "./kickup-icon-512.png"];
 
 self.addEventListener("install", (event) => {
